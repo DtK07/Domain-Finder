@@ -1,4 +1,5 @@
 #Domain Finder
+
 The Domain Finder is a Python script designed to perform bulk domain searches for companies, colleges, industries, and other entities using the Google search engine.
 
 Libraries utilized in this script include Beautiful Soup, Requests, and Openpyxl.
